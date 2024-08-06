@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanT701
 - 👀 I’m interested in ... Computers 🖥️
-- 🌱 I’m currently learning ... Data Structures
+- 🌱 I’m currently learning ... Machine learning
 - 💞️ I’m looking to collaborate on ... Any Project
 - 📫 How to reach me ... talhahassan701@gmail.com
 - ⚡ Fun fact: ... I've been coding (a little) since 5th grade
