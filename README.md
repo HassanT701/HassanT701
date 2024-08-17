@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HassanT701
-- 👀 I’m interested in ... Computers 🖥️
-- 🌱 I’m currently learning ... Machine learning
-- 💞️ I’m looking to collaborate on ... Any Project
+- 👋 Hi, I’m Hassan Talha
 - 📫 How to reach me ... talhahassan701@gmail.com
+- Linkedin: https://www.linkedin.com/in/hassan-talha/
+- Streamlit: https://share.streamlit.io/user/hassant701 
 - ⚡ Fun fact: ... I've been coding (a little) since 5th grade
 
 <!---
